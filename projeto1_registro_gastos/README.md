@@ -23,7 +23,7 @@ Permite registrar gastos de forma rápida, organizada e automatizada, sem precis
 ![Excel](excel.png)
 
 ## 🚀 Como testar
-1. Acesse o formulário (caso queira disponibilizar)
+1. Acesse o formulário
 2. Preencha um registro fictício
 3. Verifique a planilha no OneDrive atualizando automaticamente os dados
 
