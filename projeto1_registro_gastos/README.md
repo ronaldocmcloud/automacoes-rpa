@@ -12,7 +12,15 @@ Permite registrar gastos de forma rápida, organizada e automatizada, sem precis
 - Excel Online / OneDrive
 
 ## 📸 Imagens
-(*Adicione aqui imagens do fluxo, da planilha e do Forms quando subir os arquivos*)
+
+### Formulário
+![Forms](formulario.png)
+
+### Fluxo no Power Automate
+![Fluxo](fluxo.png)
+
+### Planilha Excel
+![Excel](excel.png)
 
 ## 🚀 Como testar
 1. Acesse o formulário (caso queira disponibilizar)
