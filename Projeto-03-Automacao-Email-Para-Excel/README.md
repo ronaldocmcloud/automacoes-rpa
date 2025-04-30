@@ -45,17 +45,17 @@ Essa automação é útil para centralizar pedidos recebidos por e-mail e garant
 ## 📸 Prints do Projeto
 
 ### 🔄 Fluxo completo no Power Automate
-![Fluxo Power Automate](./Projeto-03-Automacao-Email-Para-Excel/fluxo.png)
+![Fluxo Power Automate](./fluxo.png)
 
 ---
 
 ### 📬 Exemplo de E-mail com "Pedido"
-![Exemplo de E-mail](./Projeto-03-Automacao-Email-Para-Excel/email.png)
+![Exemplo de E-mail](./email.png)
 
 ---
 
 ### 📊 Registro na Planilha Excel (OneDrive)
-![Planilha Excel](./Projeto-03-Automacao-Email-Para-Excel/planilha.png)
+![Planilha Excel](./planilha.png)
 
 
 ---
